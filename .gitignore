@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+frontend/public/charting_library/*
+!frontend/public/charting_library/.gitkeep
